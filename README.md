@@ -10,7 +10,10 @@
 
 ### 🌐 Interested in my work?
 - 🎨 [Fiverr](https://www.fiverr.com/s/gDW7vj9)
-- 📸 Instagram: [sn1kex._](https://instagram.com/sn1kex._)
+[![Instagram](https://img.shields.io/badge/Instagram-sn1kex._-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sn1kex._)
+[![Email](https://img.shields.io/badge/Email-k1nik0kin@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:k1nik0kin@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-ssnaakee-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/ssnaakee)
+
 
 ---
 
