@@ -25,5 +25,20 @@
 
 ---
 💌 Feel free to reach out through Instagram or Fiverr if you're interested in work!
+---
+
+## 🎨 Projects
+
+### 🌀 Gojo Artwork
+
+<img src="gojo.gif" alt="Gojo Steam Artwork" width="600"/>
+
+- ✨ **Animated Gojo picture** where I brought the character to life (body, hair, eyes, etc.)
+- 🖊️ Custom background with unique text and borders
+- 🎬 Added creative animation effects for extra impact
+- 🛠️ **Software Used:** After Effects (animation), Photoshop (cutting & GIF rendering)
+
+---
+
 
 
