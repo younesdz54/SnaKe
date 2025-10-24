@@ -27,7 +27,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
 
 ---
-💌 Feel free to reach out through Instagram or Fiverr if you're interested in work!
+💌 Feel free to reach out through Instagram & Discord or Fiverr if you're interested in work!
 ---
 
 ## 🎨 Projects
