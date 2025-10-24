@@ -1,6 +1,6 @@
 ## 🖐️ Hey, I'm Younes!
 
-✨ **Editor & Steam Artist | Anime Enthusiast**
+✨ **Editor & Steam Artist **
 
 - 🎬 I love making **anime edits** and creating unique **Steam artworks**
 - 💻 My main software is **After Effects** (4 years experience)
@@ -23,7 +23,7 @@
 ![Younes' GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
 
-<!--
-💌 Feel free to reach out through Instagram or Fiverr if you're interested in collaborations or commissions!
--->
+---
+💌 Feel free to reach out through Instagram or Fiverr if you're interested in work!
+
 
