@@ -19,7 +19,7 @@
 
 #### 🛠 Tech Stack & Skills
 - **Main software:** After Effects
-- **Other:** Steam Artwork Creation, Anime Video Editing
+- **Other:** Steam Artwork Creation, Video Editing
 
 ---
 
